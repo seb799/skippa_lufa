@@ -13,5 +13,9 @@ USER_EMAIL = 'randomemail@gmail.com'
 
 USER_PW = 'randompassword123?'
 
+## Chromedriver
+Chromedriver.exe must match Chrome version. Currently 100.x
+
+Chromedrive updates can be found [here](https://chromedriver.chromium.org/downloads)
 
 
