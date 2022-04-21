@@ -1,4 +1,4 @@
-# lufa_skippa
+# Lufa Basket Cancellation
 This repository contains a script to automatically cancel a Lufa order for a given week. 
 
 ## Why
